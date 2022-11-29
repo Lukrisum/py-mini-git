@@ -1,2 +1,0 @@
-import libpmg
-libpmg.main()
