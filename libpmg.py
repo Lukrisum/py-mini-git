@@ -125,6 +125,3 @@ init_parser.add_argument("path", metavar="directory", nargs="?",
 def cmd_init(args):
     # print(args)
     repo_create(args.path)
-
-
-main()
